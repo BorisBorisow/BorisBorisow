@@ -1,8 +1,10 @@
 ### Hi there 👋
-
+---
+[![](https://visitcount.itsvg.in/api?id=Borrisow&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **BorisBorisow/BorisBorisow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![](https://visitcount.itsvg.in/api?id=Borrisow&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
