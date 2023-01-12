@@ -1,4 +1,4 @@
-### Hi there, I'm [Boris Borisov!](https://github.com/BorisBorisow)👋
+### Hi there, I'm [Boris!](https://github.com/BorisBorisow)👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-borisov-533238261/)
 ---
