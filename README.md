@@ -10,9 +10,9 @@
 - 🌱 I’m currently learning HTML and CSS 
 <br/><br/>
 - 👯 I’m looking to collaborate with disciplined and purposeful people.
--<br/><br/>
+<br/><br/>
 - 💬 Ask me about anything! I am happy to help! 
--<br/><br/>
+<br/><br/>
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-borisov-533238261/) [![E-Mail](https://img.shields.io/badge/-b__borisov%40gmx.de-success)](mailto:b_borisov@gmx.de)
 
 <br/><br/>
