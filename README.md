@@ -1,4 +1,6 @@
-### Hi there, , I'm [Boris Borisov!](https://github.com/BorisBorisow)👋
+### Hi there, I'm [Boris Borisov!](https://github.com/BorisBorisow)👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-borisov-533238261/)
 ---
 [![](https://visitcount.itsvg.in/api?id=Borrisow&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
