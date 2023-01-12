@@ -1,4 +1,4 @@
-### Hi there, I'm [Boris!](https://github.com/BorisBorisow)👋
+## Hi there, I'm [Boris!](https://github.com/BorisBorisow)👋
 
 
 #### Glad to see you here! &nbsp; ![](https://visitcount.itsvg.in/api?id=Borrisow&label=Profile%20Views&color=6&icon=0&pretty=false)
@@ -24,10 +24,10 @@
 
 <br />
 
-
-### ☄️ Github Streaks :
+<div id="badges" align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BorisBorisow&border_radius=50)](https://git.io/streak-stats)
+#### :dart: Github Streaks
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BorisBorisow&border_radius=50)](https://git.io/streak-stats)
 
 
 
