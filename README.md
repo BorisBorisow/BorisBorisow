@@ -24,7 +24,7 @@
 
 ---
 
-### :fire: My Stats :
+
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
