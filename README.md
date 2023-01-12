@@ -22,6 +22,8 @@
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 
+---
+
 ### :fire: My Stats :
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
