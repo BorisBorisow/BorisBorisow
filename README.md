@@ -13,7 +13,7 @@
 -<br/><br/>
 - 💬 Ask me about anything! I am happy to help! 
 -<br/><br/>
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-borisov-533238261/)(https://img.shields.io/badge/E--Mail-b__borisov%40gmx.de-re)](mailto:b_borisov@gmx.de)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-borisov-533238261/)[![](https://img.shields.io/badge/E--Mail-b__borisov%40gmx.de-re)](mailto:b_borisov@gmx.de)
 
 <br/><br/>
 
