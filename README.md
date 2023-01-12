@@ -1,6 +1,6 @@
 ### Hi there, I'm [Boris!](https://github.com/BorisBorisow)👋
 ---
-- 🌱 I’m currently learning HTML and CSS in [<img src='https://github.com/BorisBorisow/BorisBorisow/blob/main/Logos/Software-University-logo-horizontal.png' alt='www.softuni.bg' height='23' width="120">](https://softuni.bg/) 
+- 🌱 I’m currently learning HTML and CSS in [<img src='https://github.com/BorisBorisow/BorisBorisow/blob/main/Logos/Software-University-logo-horizontal.png' alt='www.softuni.bg' height='25' width="110">](https://softuni.bg/) 
 - 👯 I’m looking to collaborate with disciplined and purposeful people.
 - 💬 Ask me about anything! I am happy to help! 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-borisov-533238261/)![Linkedin Badge](https://img.shields.io/badge/E--Mail-b__borisov%40gmx.de-red)
