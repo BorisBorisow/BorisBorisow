@@ -1,6 +1,6 @@
 ### Hi there, I'm [Boris!](https://github.com/BorisBorisow)👋
 ---
-###I'm a student at Software University 
+### I'm a student at Software University 
 - 🌱 I’m currently learning HTML and CSS in [Software University](https://softuni.bg/).
 - 👯 I’m looking to collaborate with disciplined and purposeful people.
 - 💬 Ask me about anything! I am happy to help! 
