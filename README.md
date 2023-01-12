@@ -3,7 +3,7 @@
 ##I am a student at Software University 
 - 🌱 I’m currently learning HTML and CSS in [Software University](https://softuni.bg/).
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-borisov-533238261/)[![Linkedin Badge](https://img.shields.io/badge/E--Mail-b__borisov%40gmx.de-red)]
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-borisov-533238261/)![Linkedin Badge](https://img.shields.io/badge/E--Mail-b__borisov%40gmx.de-red)
 
 ## Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
