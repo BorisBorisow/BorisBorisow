@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning HTML and CSS 
 <br/><br/>
-- 👯 I’m looking to collaborate with disciplined and purposeful people.
+- 👯 I’m looking to collaborate with disciplined and purposeful people
 <br/><br/>
 - 💬 Ask me about anything! I am happy to help! 
 <br/><br/>
