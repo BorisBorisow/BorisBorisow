@@ -1,6 +1,6 @@
 ### Hi there, I'm [Boris!](https://github.com/BorisBorisow)👋
 ---
-<img align="right" height="250" width="375" alt="" src="https://github.com/BorisBorisow/BorisBorisow/blob/main/Logos/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif" />
+<img align="right" height="200" width="375" alt="" src="https://github.com/BorisBorisow/BorisBorisow/blob/main/Logos/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif" />
 
 ### I'm a student at [<img src='https://github.com/BorisBorisow/BorisBorisow/blob/main/Logos/Software-University-logo-horizontal.png' alt='www.softuni.bg' height='26' width="90">](https://softuni.bg/) 
 - 🌱 I’m currently learning HTML and CSS 
