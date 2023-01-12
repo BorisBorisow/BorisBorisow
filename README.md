@@ -1,6 +1,6 @@
 ### Hi there, I'm [Boris!](https://github.com/BorisBorisow)👋
 ---
-- 🌱 I’m currently learning HTML and CSS in <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+- 🌱 I’m currently learning HTML and CSS in 
 - 👯 I’m looking to collaborate with disciplined and purposeful people.
 - 💬 Ask me about anything! I am happy to help! 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-borisov-533238261/)![Linkedin Badge](https://img.shields.io/badge/E--Mail-b__borisov%40gmx.de-red)
