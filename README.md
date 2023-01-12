@@ -30,7 +30,7 @@
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BorisBorisow&border_radius=50)](https://git.io/streak-stats)
+  (http://github-readme-streak-stats.herokuapp.com?user=BorisBorisow&border_radius=50)](https://git.io/streak-stats)
 </details>
 
 
