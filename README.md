@@ -22,7 +22,14 @@
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 
----
+### :fire: My Stats :
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BorisBorisow&border_radius=50)](https://git.io/streak-stats)
+</details>
+
 
 
 
