@@ -4,8 +4,11 @@
 
 ### I'm a student at [<img src='https://github.com/BorisBorisow/BorisBorisow/blob/main/Logos/Software-University-logo-horizontal.png' alt='www.softuni.bg' height='26' width="90">](https://softuni.bg/) 
 - 🌱 I’m currently learning HTML and CSS 
+<br/><br/>
 - 👯 I’m looking to collaborate with disciplined and purposeful people.
+-<br/><br/>
 - 💬 Ask me about anything! I am happy to help! 
+-<br/><br/>
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-borisov-533238261/)![Linkedin Badge](https://img.shields.io/badge/E--Mail-b__borisov%40gmx.de-red)
 
 
