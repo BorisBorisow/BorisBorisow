@@ -16,21 +16,19 @@
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-borisov-533238261/) [![E-Mail](https://img.shields.io/badge/-b__borisov%40gmx.de-success)](mailto:b_borisov@gmx.de)
 
 <br/><br/>
-
+<a>
 #### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
-
----
+</a>
 
 <br />
 
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
 
-  <br />
+### ☄️ Github Streaks :
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BorisBorisow&border_radius=50)](https://git.io/streak-stats)
-</details>
+
 
 
 
