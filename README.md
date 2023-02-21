@@ -7,11 +7,11 @@
 
 ### I'm a student at [<img src='https://github.com/BorisBorisow/BorisBorisow/blob/main/Logos/Software-University-logo-horizontal.png' alt='www.softuni.bg' height='26' width="90">](https://softuni.bg/) 
 
-- 🌱 I’m currently learning HTML and CSS 
+- 🌱 I’m currently learning JavaScript 
 <br/><br/>
 - 👯 I’m looking to collaborate with disciplined and purposeful people
 <br/><br/>
-- 💬 Ask me about anything! I am happy to help! 
+- 💬 Ask me about Python, HTML or CSS! I am happy to help! 
 <br/><br/>
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-borisov-533238261/) [![E-Mail](https://img.shields.io/badge/-b__borisov%40gmx.de-success)](mailto:b_borisov@gmx.de)
 
@@ -20,7 +20,10 @@
 #### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="VS-Code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px;" />
+  <img align="left" alt="HTML" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" style="padding-right:10px;" />
 </a>
 
 <br />
