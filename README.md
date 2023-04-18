@@ -11,7 +11,7 @@
 <br/><br/>
 - 👯 I’m looking to collaborate with disciplined and purposeful people
 <br/><br/>
-- 💬 Ask me about Python, HTML or CSS! I am happy to help! 
+- 💬 Ask me about Python, JavaScript, HTML or CSS! I am happy to help! 
 <br/><br/>
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boris-borisov-533238261/) [![E-Mail](https://img.shields.io/badge/-b__borisov%40gmx.de-success)](mailto:b_borisov@gmx.de)
 
