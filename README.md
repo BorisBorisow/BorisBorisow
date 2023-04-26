@@ -7,7 +7,7 @@
 
 ### I'm a student at [<img src='https://github.com/BorisBorisow/BorisBorisow/blob/main/Logos/Software-University-logo-horizontal.png' alt='www.softuni.bg' height='26' width="90">](https://softuni.bg/) 
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning <b>Django</b> 
 <br/><br/>
 - 👯 I’m looking to collaborate with disciplined and purposeful people
 <br/><br/>
